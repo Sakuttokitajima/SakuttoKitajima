@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687169175 source:c:\users\kitajima\documents\c\sakuttoproject\dentaku\saluttoprojecth\main.c
+	<stdio.h>
+	<stdlib.h>
+

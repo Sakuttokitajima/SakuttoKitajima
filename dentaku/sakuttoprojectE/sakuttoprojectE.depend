@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687160388 source:c:\users\kitajima\documents\c\sakuttoproject\dentaku\sakuttoprojecte\main.c
+	<stdio.h>
+	<stdlib.h>
+
